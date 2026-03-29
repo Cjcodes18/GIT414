@@ -1,6 +1,7 @@
 @media (min-width: 768px) {
   nav ul {
     display: flex;       
+    font-size: medium;
     gap: 20px;          
     background-color: #f0f0f0; 
   }
